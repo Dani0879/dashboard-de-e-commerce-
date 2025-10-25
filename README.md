@@ -1,5 +1,9 @@
 # Aplicación Web Escalable (React + TypeScript + Tailwind)
 
+Demo (GitHub Pages): https://dani0879.github.io/dashboard-de-e-commerce-/
+
+Acceso rápido: https://dani0879.github.io/dashboard-de-e-commerce-/#/login
+
 Base de arquitectura y diseño visual para una app tipo dashboard de e‑commerce. Enfocada en estructura modular, UI/UX con Tailwind, y rutas funcionales con React Router DOM. No incluye lógica de negocio ni persistencia.
 
 ## Tecnologías
@@ -53,6 +57,11 @@ npm run build
 # Vista previa de producción
 npm run preview
 ```
+
+## Cómo probar la demo
+- Al abrir la demo, te redirigirá a la pantalla de Login.
+- Ingresa cualquier nombre y pulsa "Entrar" para ver el dashboard.
+- Usa la barra lateral para navegar entre Dashboard, Productos y Ajustes.
 
 ## Colaboración
 La gestión del trabajo (tareas, bugs, mejoras) se recomienda vía GitHub Issues. Divide por epics y etiquetas (UI, componentes, páginas, accesibilidad, etc.).
